@@ -7,4 +7,4 @@ https://www.baeldung.com/spring-cloud-stream-kafka-avro-confluent
 
 To run the application:
 1. After cloning the project, run `mvn clean compile` in the terminal
-2. Execute the command - `curl -X POST localhost:8080/employees/1001/Harry/Potter` in terminal
+2. Execute the command - `curl -X POST localhost:9092/employees/1001/Harry/Potter` in terminal
